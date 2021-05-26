@@ -1,0 +1,4 @@
+Sitemap: https://asg1612.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: asg1612.github.io
